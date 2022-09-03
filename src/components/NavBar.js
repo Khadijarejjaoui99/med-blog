@@ -12,7 +12,6 @@ function NavBar() {
             <MenuItem>About</MenuItem>
             <MenuItem>Write</MenuItem>
             <MenuItem>Contact</MenuItem>
-            <MenuItem>LogOut</MenuItem>
           </Menu>
         </Left>
         <Right>
